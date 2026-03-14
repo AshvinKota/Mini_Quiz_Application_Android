@@ -1,4 +1,4 @@
-# Mini-Quiz-Application---Android
+# Mini Quiz Application Android
 1. Problem Definition:
 In today's digital learning environment, students require interactive tools to evaluate their academic knowledge. Traditional learning methods such as reading textbooks do not always provide immediate feedback regarding a student's understanding of a subject.
 The problem addressed in this project is the lack of a simple and portable platform where students can quickly test their knowledge using multiple-choice questions.
